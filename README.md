@@ -35,14 +35,7 @@ expectations. Further, the model will be a good way for management to understand
 of a new market. 
 
 
-* In this notebook, I have built a Multiple Linear regression model to solve the Bike sharing assignment problem
-
-## Solution approach
-* Reading, understanding and visualising the data
-* Preparing data for modeling (train and test split, rescaling etc..)
-* Training the mode with 70% training data
-* Residual analysis
-* Prediction and evaluation on the 30% test data
+## In this notebook, I have built a Multiple Linear regression model to solve the Bike sharing assignment problem
 
 ## Crisp DM framework
 * Business Understanding
@@ -52,7 +45,8 @@ of a new market.
 * model Deployment
 
 ## Solution approach
-* Provide general information about your project here.
-* What is the background of your project?
-* What is the business probem that your project is trying to solve?
-* What is the dataset that is being used?
+* Reading, understanding and visualising the data
+* Preparing data for modeling (train and test split, rescaling etc..)
+* Training the mode with 70% training data
+* Residual analysis
+* Prediction and evaluation on the 30% test data
